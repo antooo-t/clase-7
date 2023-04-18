@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 100" style="enable-background:new 0 0 100 100;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FF0000;}
+	.st1{fill:#12F917;}
+	#transicion {
+            transform: translate(0, 0px);
+            opacity:0;
+        }
+        #transicion:hover {
+            opacity: 1;
+            transition: opacity ease .5s;
+            cursor: pointer;
+        }
+</style>
+<path d="M10.1,61.5h15.6V68H10.1c-1.7,0-3.1-1.4-3.1-3.1v-0.5C7.2,62.8,8.5,61.5,10.1,61.5z"/>
+<path d="M10.1,79.8h15.6v6.5H10.1c-1.7,0-3-1.3-3.1-3v-0.4C7.1,81.2,8.5,79.9,10.1,79.8z"/>
+<path d="M23.9,37.3H19v-24c0-2.2,1.8-4,4.1-4h49.7c2.2,0,4,1.8,4,4v0.9H23.9V37.3z"/>
+<path d="M19,43v-0.9h52.9V19.1h4.9l7.5,1.2v15.3l-7.5,1.7V43c0,2.2-1.8,4-4,4.1H23.1C20.8,47.1,19,45.3,19,43z"/>
+<rect x="28.8" y="18.5" class="st0" width="10.8" height="19.4"/>
+<path d="M92.9,77.7H71.3c-1.8,7.6-8.6,13-16.4,13H31.3V57.1h23.6c7.8,0,14.5,5.4,16.4,12.9h21.7V77.7z"/>
+<g id="transicion">
+	<path d="M10.1,61.5h15.6V68H10.1c-1.7,0-3.1-1.4-3.1-3.1v-0.5C7.2,62.8,8.5,61.5,10.1,61.5z"/>
+	<path d="M10.1,79.8h15.6v6.5H10.1c-1.7,0-3-1.3-3.1-3v-0.4C7.1,81.2,8.5,79.9,10.1,79.8z"/>
+	<g>
+		<path d="M23.9,37.3H19v-24c0-2.2,1.8-4,4.1-4h49.7c2.2,0,4,1.8,4,4v0.9H23.9V37.3z"/>
+		<path d="M19,43v-0.9h52.9V19.1h4.9l7.5,1.2v15.3l-7.5,1.7V43c0,2.2-1.8,4-4,4.1H23.1C20.8,47.1,19,45.3,19,43z"/>
+		<rect x="28.8" y="18.5" class="st1" width="10.8" height="19.4"/>
+		<rect x="42.5" y="18.5" class="st1" width="10.8" height="19.4"/>
+		<rect x="56.1" y="18.5" class="st1" width="10.8" height="19.4"/>
+	</g>
+	<path d="M92.9,77.7H71.3c-1.8,7.6-8.6,13-16.4,13H31.3V57.1h23.6c7.8,0,14.5,5.4,16.4,12.9h21.7V77.7z"/>
+</g>
+</svg>
